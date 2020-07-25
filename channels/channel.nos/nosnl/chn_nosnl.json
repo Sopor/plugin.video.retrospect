@@ -4,7 +4,8 @@
       "guid": "EE33E7EC-FDAB-11E0-AA09-1EED4724019B",
       "name": "NOS.nl",
       "description": {
-        "en": "Video en audio van NOS.nl."
+        "en": "Video and audio from NOS.nl.",
+        "nl": "Video en audio van NOS.nl."
       },
       "icon": "nosnllarge.png",
       "category": "National",

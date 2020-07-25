@@ -4,7 +4,8 @@
       "guid": "D74952F3-B72B-4AF9-83E6-9394D37D786E",
       "name": "Omroep Flevoland",
       "description": {
-        "en": "Omroep Flevoland Uitzendinggemist"
+        "en": "Video on demand for Omroep Flevoland.",
+        "nl": "Omroep Flevoland Uitzendinggemist."
       },
       "icon": "flevolarge.png",
       "category": "Regional",

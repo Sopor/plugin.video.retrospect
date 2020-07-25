@@ -4,7 +4,8 @@
       "guid": "B7EB69DF-18C4-4935-BA83-0B2A89295178",
       "name": "RTV Drenthe",
       "description": {
-        "en": "RTV Drenthe Uitzendinggemist"
+        "en": "Video on demand for RTV Drenthe.",
+        "nl": "RTV Drenthe Uitzendinggemist."
       },
       "icon": "rtvdrenthelarge.png",
       "category": "Regional",
@@ -17,7 +18,8 @@
       "guid": "B099990E-5749-44FC-A5C5-A40427A9A5C9",
       "name": "RTV Oost",
       "description": {
-        "en": "RTV Oost Uitzendinggemist"
+        "en": "Video on demand for RTV Oost.",
+        "nl": "RTV Oost Uitzendinggemist."
       },
       "icon": "rtvoostlarge.png",
       "category": "Regional",
@@ -30,7 +32,8 @@
       "guid": "7C40EEE7-40F4-40ED-8A70-FAAB42B7A2B1",
       "name": "RTV Noord",
       "description": {
-        "en": "RTV Noord Uitzendinggemist"
+        "en": "Video on demand for RTV Noord.",
+        "nl": "RTV Noord Uitzendinggemist."
       },
       "icon": "rtvnoordlarge.png",
       "category": "Regional",
@@ -43,7 +46,8 @@
       "guid": "AF2B907D-D437-46DB-B802-F946850098FB",
       "name": "RTV Rijnmond",
       "description": {
-        "en": "RTV Rijnmond Uitzendinggemist"
+        "en": "Video on demand for RTV Rijnmond.",
+        "nl": "RTV Rijnmond Uitzendinggemist."
       },
       "icon": "rtvrijnmondlarge.png",
       "category": "Regional",
@@ -56,7 +60,8 @@
       "guid": "EFE57022-9F52-41F9-8775-13CCD001FA56",
       "name": "Omroep West",
       "description": {
-        "en": "Omroep West Uitzendinggemist"
+        "en": "Video on demand for Omroep West.",
+        "nl": "Omroep West Uitzendinggemist."
       },
       "icon": "omroepwestlarge.png",
       "category": "Regional",
@@ -69,7 +74,8 @@
       "guid": "B2AF5744-4697-44CD-9A54-CFD6A4273207",
       "name": "Omroep Gelderland",
       "description": {
-        "en": "Omroep Gelderland Uitzendinggemist"
+        "en": "Video on demand for Omroep Gelderland.",
+        "nl": "Omroep Gelderland Uitzendinggemist."
       },
       "icon": "omroepgelderlandlarge.png",
       "category": "Regional",
@@ -82,7 +88,8 @@
       "guid": "770D3385-2EC9-4B87-9BC8-3A7190248A9C",
       "name": "Omroep Brabant",
       "description": {
-        "en": "Omroep Brabant Uitzendinggemist"
+        "en": "Video on demand for Omroep Brabant.",
+        "nl": "Omroep Brabant Uitzendinggemist."
       },
       "icon": "omroepbrabantlarge.png",
       "category": "Regional",
@@ -95,7 +102,8 @@
       "guid": "81CD5339-0D59-4019-9171-12A98815311C",
       "name": "Omrop Fryslân",
       "description": {
-        "en": "Omrop Fryslân Uitzendinggemist"
+        "en": "Video on demand for Omrop Fryslân.",
+        "nl": "Omrop Fryslân Uitzendinggemist."
       },
       "icon": "omropfryslanlarge.png",
       "category": "Regional",

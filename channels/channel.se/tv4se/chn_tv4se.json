@@ -4,8 +4,8 @@
       "guid": "98506F58-CD6F-11DE-99BA-187F55D89593",
       "name": "TV4",
       "description": {
-        "en": "Sändningar från TV4 (TV4Play.se).",
-        "se": "Broadcasts from TV4 (TV4Play.se).",
+        "en": "Broadcasts from TV4 (TV4Play.se).",
+        "se": "Sändningar från TV4 (TV4Play.se).",
         "nl": "Uitzendingen van TV4 (TV4Play.se)."
       },
       "icon": "tv4large.png",

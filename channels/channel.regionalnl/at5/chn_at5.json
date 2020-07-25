@@ -4,7 +4,8 @@
       "guid": "EF46E726-92F4-42FC-A6D4-68A888E23E96",
       "name": "RTV Noord-Holland",
       "description": {
-        "en": "RTV Noord-Holland Uitzendinggemist"
+        "en": "Video on demand for RTV Noord-Holland.",
+        "nl": "RTV Noord-Holland Uitzendinggemist."
       },
       "icon": "rtvnhlarge.png",
       "category": "Regional",
@@ -17,7 +18,8 @@
       "guid": "870EAD32-F2F9-11DD-B0E7-747356D89593",
       "name": "AT5",
       "description": {
-        "en": "AT5 Uitzendinggemist"
+        "en": "Video on demand for AT5.",
+        "nl": "AT5 Uitzendinggemist."
       },
       "icon": "at5large.png",
       "category": "Regional",
